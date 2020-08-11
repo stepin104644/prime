@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1597052165 source:c:\users\soumya\desktop\stepin c\assignments\prime\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597052165 c:\users\soumya\desktop\stepin c\assignments\prime\unity\unity.h
+	"unity_internals.h"
+
+1597052165 c:\users\soumya\desktop\stepin c\assignments\prime\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597142193 source:c:\users\soumya\desktop\stepin c\assignments\prime\main.c
+	"test_prime.h"
+
+1597141919 c:\users\soumya\desktop\stepin c\assignments\prime\test\test_prime.h
+
+1597149720 source:c:\users\soumya\desktop\stepin c\assignments\prime\test\test_prime.c
+	"unity.h"
+	"prime.h"
+
+1597143134 c:\users\soumya\desktop\stepin c\assignments\prime\inc\prime.h
+
+1597149783 source:c:\users\soumya\desktop\stepin c\assignments\prime\src\prime.c
+	"prime.h"
+	<math.h>
+
