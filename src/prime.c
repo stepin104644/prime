@@ -1,10 +1,9 @@
 #include "prime.h"
 #include<math.h>
 
-int flag=1; // flag variable to set 0 if not prime
-
 int prime(int number)
 {
+   int flag=1; // flag variable to set 0 if not prime
    int loop_var;
         
     if(number<2)  //< neither prime nor composite
